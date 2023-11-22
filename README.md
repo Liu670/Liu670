@@ -1,7 +1,7 @@
-<!-- ![](https://raw.githubusercontent.com/Liu670/Liu670/main/assets/github-contribution-grid-snake.svg)  -->            
+<!-- ![](https://raw.githubusercontent.com/Liu670/Liu670/main/assets/github-contribution-grid-snake.svg) 
 
 ![暗色](https://github.com/Liu670/Liu670/blob/output/github-contribution-grid-snake-dark.svg)
-![亮色](https://github.com/Liu670/Liu670/blob/output/github-contribution-grid-snake.svg)
+![亮色](https://github.com/Liu670/Liu670/blob/output/github-contribution-grid-snake.svg) -->            
 # [](#-小刘-github-首页)[✨ 小刘 GitHub 首页](https://github.com/Liu670)
 
 <div align="center">
@@ -10,15 +10,15 @@
   </a>
 </div>
 
-![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
+![](https://github.com/Liu670/Liu670/blob/output/github-contribution-grid-snake.svg)
 
 ### 个人简介
-- 🐕 姓名: 胡东旭
+- 🐕 姓名: 刘金林
 - 👦 性别: 男
-- 🧭 年龄: 30
-- 🌏 现居: 山东青岛
-- 📞 手机: 18306390693
-- 🥑 公众号: 【JavaDog程序狗】
+- 🧭 年龄: 23
+- 🌏 现居: 安徽滁州
+- 📞 手机: 13155908670
+- 🥑 公众号: 【无】
 
 ### 仓库信息
 ![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=javadog-net&layout=compact&theme=tokyonight)   
@@ -59,7 +59,7 @@
 
 [![](https://camo.githubusercontent.com/7ac55b81a4ed639e56af10b88bd662e98bf23ca0bb887d834aa72621d0bdd407/68747470733a2f2f6d6f652d636f756e7465722e676c697463682e6d652f6765742f403a7a68616e672d626378623f7468656d653d72756c653334)](https://camo.githubusercontent.com/7ac55b81a4ed639e56af10b88bd662e98bf23ca0bb887d834aa72621d0bdd407/68747470733a2f2f6d6f652d636f756e7465722e676c697463682e6d652f6765742f403a7a68616e672d626378623f7468656d653d72756c653334)
 
-## [](#-全栈工程师小刘)🧸 全栈工程师—小刘
+## [](#-攻城狮小刘)🧸 希望不秃头—小刘
 
 热爱前端、热爱技术。
 喜欢参与一些开源项目的讨论。
