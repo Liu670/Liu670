@@ -3,7 +3,14 @@
 ![暗色](https://github.com/Liu670/Liu670/blob/output/github-contribution-grid-snake-dark.svg)
 ![亮色](https://github.com/Liu670/Liu670/blob/output/github-contribution-grid-snake.svg) -->            
 # [](#-小刘-github-首页)[✨ 小刘 GitHub 首页](https://github.com/Liu670)
-<h1>Welcome, You are my  <img src="https://profile-counter.glitch.me/Liu670/count.svg"> Visitor, Thank You!🎉🎉</h1>
+### _Hi there 👋, I'm Xiao._
+I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
+
+[![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:find_onepiece@163.com)
+[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:juntaoxiaocc@gmail.com)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
+
+<he>Welcome, You are my  <img src="https://profile-counter.glitch.me/Liu670/count.svg"> Visitor, Thank You!🎉🎉</he>
 <div align="center">
   <a href="https://blog.sunguoqi.com/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=昨日之深渊,今日之浅谈;想的是你,放不下的还是你！&center=true&size=27" alt="Typing SVG" />
