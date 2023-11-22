@@ -51,7 +51,7 @@ _____________|','   ///_/-------------/   |
 
 ### 仓库信息
 ![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=Liu670&layout=compact&theme=tokyonight)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liu670&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liu670)](https://github.com/anuraghazra/github-readme-stats)
 ### 博客简介
 
 | Liu670| 狗屋地址 |
