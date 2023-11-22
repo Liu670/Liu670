@@ -3,9 +3,7 @@
 ![暗色](https://github.com/Liu670/Liu670/blob/output/github-contribution-grid-snake-dark.svg)
 ![亮色](https://github.com/Liu670/Liu670/blob/output/github-contribution-grid-snake.svg) -->            
 # [](#-小刘-github-首页)[✨ 小刘 GitHub 首页](https://github.com/Liu670)
-<h4>Welcome, You are my 
- Visitor, Thank You!🎉🎉</h4>
- ![Visitor Count访问数](https://profile-counter.glitch.me/Liu670/count.svg)
+<h4>Welcome, You are my  ![Visitor Count](https://profile-counter.glitch.me/Liu670/count.svg) Visitor, Thank You!🎉🎉</h4>
 <div align="center">
   <a href="https://blog.sunguoqi.com/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=昨日之深渊,今日之浅谈;想的是你,放不下的还是你！&center=true&size=27" alt="Typing SVG" />
