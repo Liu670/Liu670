@@ -21,7 +21,7 @@
 - 🥑 公众号: 【无】
 
 ### 仓库信息
-![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=javadog-net&layout=compact&theme=tokyonight)   
+![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=Liu670&layout=compact&theme=tokyonight)   
 
 ### 博客简介
 
@@ -33,8 +33,8 @@
 | 掘金 | [https://juejin.cn/user/2172290706716775](https://juejin.cn/user/2172290706716775)| 
 | 知乎 | [https://www.zhihu.com/people/JavaDog](https://www.zhihu.com/people/JavaDog) | 
 | 简书| [https://www.jianshu.com/u/1ff9c6bdb916](https://www.jianshu.com/u/1ff9c6bdb916) | 
-| gitee|[https://gitee.com/javadog-net](https://gitee.com/javadog-net)  | 
-| GitHub|[https://github.com/javadog-net](https://github.com/javadog-net)| 
+| gitee|[https://gitee.com/Liu670](https://gitee.com/Liu670)  | 
+| GitHub|[https://github.com/Liu670](https://github.com/Liu670)| 
 
 ### 文章推荐
 
