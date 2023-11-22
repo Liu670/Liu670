@@ -16,6 +16,8 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=昨日之深渊,今日之浅谈;想的是你,放不下的还是你！&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
+
+```
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -35,6 +37,8 @@ _____________,'      ,',_____|      |    | |
              | ,','  __/ |             /   |
 _____________|','   ///_/-------------/   |
               |===========,'
+```
+
 ![](https://github.com/Liu670/Liu670/blob/output/github-contribution-grid-snake.svg)
 
 ### 个人简介
