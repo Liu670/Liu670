@@ -53,14 +53,21 @@ _____________|','   ///_/-------------/   |
 ![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=Liu670&layout=compact&theme=tokyonight)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liu670&theme=tokyonight)]
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liu670&layout=compact&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liu670&theme=tokyonight" />
+</a>
 
+<!-- 选择仓库 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Liu670&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Liu670&repo=convoychat" />
 </a>
-
+-->
 
 
 ### 博客简介
