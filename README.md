@@ -4,6 +4,54 @@
 ![亮色](https://github.com/Liu670/Liu670/blob/output/github-contribution-grid-snake.svg)
 # [](#-小刘-github-首页)[✨ 小刘 GitHub 首页](https://github.com/Liu670)
 
+<div align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=昨日之深渊,今日之浅谈;想的是你,放不下的还是你！&center=true&size=27" alt="Typing SVG" />
+  </a>
+</div>
+
+![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
+
+### 个人简介
+- 🐕 姓名: 胡东旭
+- 👦 性别: 男
+- 🧭 年龄: 30
+- 🌏 现居: 山东青岛
+- 📞 手机: 18306390693
+- 🥑 公众号: 【JavaDog程序狗】
+
+### 仓库信息
+![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=javadog-net&layout=compact&theme=tokyonight)   
+
+### 博客简介
+
+| JavaDog| 狗屋地址 |
+| :----:| :----: | 
+| 个人博客 | [https://www.javadog.net](https://www.javadog.net) | 
+| 公众号 | [JavaDog程序狗](https://mp.weixin.qq.com/s/_vgnXoQ8FSobD3OfRAf5gw) | 
+| CSDN  | [https://blog.csdn.net/baidu_25986059](https://blog.csdn.net/baidu_25986059) | 
+| 掘金 | [https://juejin.cn/user/2172290706716775](https://juejin.cn/user/2172290706716775)| 
+| 知乎 | [https://www.zhihu.com/people/JavaDog](https://www.zhihu.com/people/JavaDog) | 
+| 简书| [https://www.jianshu.com/u/1ff9c6bdb916](https://www.jianshu.com/u/1ff9c6bdb916) | 
+| gitee|[https://gitee.com/javadog-net](https://gitee.com/javadog-net)  | 
+| GitHub|[https://github.com/javadog-net](https://github.com/javadog-net)| 
+
+### 文章推荐
+
+[【苹果】SpringBoot监听Iphone15邮件提醒，Selenium+Python自动化抢购脚本](https://mp.weixin.qq.com/s?__biz=MzI0MTk1OTE0OA==&mid=2247485024&idx=1&sn=0b1955d34f8a997047e87eb003dc9257&chksm=e902efe3de7566f57c509465855e6ceb85ab21070f55e2fb9c2475c4576f7c51b0f22accbf69#rd)
+
+[【规范】SpringBoot接口返回结果及异常统一处理，这样封装才优雅](https://mp.weixin.qq.com/s?__biz=MzI0MTk1OTE0OA==&mid=2247484847&idx=1&sn=bfd60bed1aef8ddcf4c030f7882a9a6d&chksm=e902ec2cde75653a0ab9a89be0365ba8f5f86a1b4de21104ff2e67352fb311e52443cd9c4a9b#rd)
+
+[【项目实战】SpringBoot+uniapp+uview2打造H5+小程序+APP入门学习的聊天小项目](https://mp.weixin.qq.com/s/g7AZOWLgW5vcCahyJDEPKA)
+
+[【项目实战】SpringBoot+uniapp+uview2打造一个企业黑红名单吐槽小程序](https://mp.weixin.qq.com/s/t_qwF_HvkdW-6TI3sYUHrA)
+
+[【模块分层】还不会SpringBoot项目模块分层？来这手把手教你！](https://mp.weixin.qq.com/s/fpkiNR2tj832a6VxZozwDg)
+
+[【ChatGPT】手摸手，带你玩转ChatGPT](https://mp.weixin.qq.com/s/9wEelbTN6kaChkCQHmgJMQ)
+
+[【ChatGPT】SpringBoot+uniapp+uview2对接OpenAI，带你开发玩转ChatGPT](https://mp.weixin.qq.com/s/b19J36Eo3-ba7bHbWzoZYQ)
+
 [![动态介绍](https://camo.githubusercontent.com/d2510953574423e43897dbc5e248256ab26101d218d713ab5fd79c8bdc20d524/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f6c696e65733de5a4a7e5aeb6e5a5bdefbc8ce68891e698afe7bc96e7a88be7bb86e8839e3be6aca2e8bf8ee69da5e588b0e68891e79a84204769744875622126666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d333830266865696768743d3530266475726174696f6e3d343030302670617573653d31303030)](https://camo.githubusercontent.com/d2510953574423e43897dbc5e248256ab26101d218d713ab5fd79c8bdc20d524/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f6c696e65733de5a4a7e5aeb6e5a5bdefbc8ce68891e698afe7bc96e7a88be7bb86e8839e3be6aca2e8bf8ee69da5e588b0e68891e79a84204769744875622126666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d333830266865696768743d3530266475726174696f6e3d343030302670617573653d31303030)
 
 [![](https://camo.githubusercontent.com/7f9333dbc7e21771749e95f4f0bc5b77e7c10d6c0efee69140a6417ccce7987a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f6772616d266d6573736167653d56756526636f6c6f723d626c7565)](https://camo.githubusercontent.com/7f9333dbc7e21771749e95f4f0bc5b77e7c10d6c0efee69140a6417ccce7987a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f6772616d266d6573736167653d56756526636f6c6f723d626c7565) [![](https://camo.githubusercontent.com/c94e39eefa7a7105104f3fa1fc1e0d93660e3ddbd67521804b6cb9e9c4740de9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d4c616e6775616765266d6573736167653d4a61766153637269707426636f6c6f723d79656c6c6f77)](https://camo.githubusercontent.com/c94e39eefa7a7105104f3fa1fc1e0d93660e3ddbd67521804b6cb9e9c4740de9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d4c616e6775616765266d6573736167653d4a61766153637269707426636f6c6f723d79656c6c6f77) [![](https://camo.githubusercontent.com/cbad75279bb601785d6bafd475915dc4faddf7bbbf1571fe16e03a8fc7d89b99/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d566964656f266d6573736167653d42696c6962696c6926636f6c6f723d70696e6b)](https://space.bilibili.com/337439992) [![](https://camo.githubusercontent.com/a9d901b0be381ff41702be8f33c96891e46a22ad28bab621fa1936f0b47a0c48/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d426c6f67266d6573736167653d57654368617426636f6c6f723d677265656e)](https://mp.weixin.qq.com/s/NfkT7BvdkNDLCcbmyl0AMg
