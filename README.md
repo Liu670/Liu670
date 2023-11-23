@@ -10,16 +10,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:liujinlin670@gmail.com)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/Liu670/cloudimg/main/PicList/wechat.jpeg)
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-
-
-<he>Welcome, You are my  <img src="https://profile-counter.glitch.me/Liu670/count.svg"> Visitor, Thank You!🎉🎉</he>
-<div align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=print('hello world');昨日之深渊,今日之浅谈;想的是你,放不下的还是你！&center=true&size=27" alt="Typing SVG" />
-  </a>
-</div>
-
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 ```
                              \\\\\\\
                             \\\\\\\\\\\\
@@ -41,6 +32,15 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
+
+
+<he>Welcome, You are my  <img src="https://profile-counter.glitch.me/Liu670/count.svg"> Visitor, Thank You!🎉🎉</he>
+<div align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=print('hello world');昨日之深渊,今日之浅谈;想的是你,放不下的还是你！&center=true&size=27" alt="Typing SVG" />
+  </a>
+</div>
+
 
 ![](https://github.com/Liu670/Liu670/blob/output/github-contribution-grid-snake.svg)
 
