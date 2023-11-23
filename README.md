@@ -20,7 +20,8 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=print('hello world');昨日之深渊,今日之浅谈;想的是你,放不下的还是你！&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
-<div style="margin-left:800px">  <!-- knock code pictures 敲代码的图片 -->
+<div align="center">
+  <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </div>
 
