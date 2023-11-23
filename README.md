@@ -1,3 +1,5 @@
+<img align="right" src="https://count.getloli.com/get/@:1?theme=rule3">
+
 <!-- ![](https://raw.githubusercontent.com/Liu670/Liu670/main/assets/github-contribution-grid-snake.svg) 
 
 ![暗色](https://github.com/Liu670/Liu670/blob/output/github-contribution-grid-snake-dark.svg)
