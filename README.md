@@ -9,8 +9,11 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:13155908670@163.com)
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:liujinlin670@gmail.com)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/Liu670/cloudimg/main/PicList/wechat.jpeg)
+ 
+<div>  
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  
 ```
                              \\\\\\\
                             \\\\\\\\\\\\
@@ -33,7 +36,7 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
 
-
+</div>
 <he>Welcome, You are my  <img src="https://profile-counter.glitch.me/Liu670/count.svg"> Visitor, Thank You!🎉🎉</he>
 <div align="center">
   <a href="https://blog.sunguoqi.com/">
