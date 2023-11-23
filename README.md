@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:1?theme=rule3">
+<img align="right" src="https://count.getloli.com/get/@:20210523123?theme=rule3">
 
 <!-- ![](https://raw.githubusercontent.com/Liu670/Liu670/main/assets/github-contribution-grid-snake.svg) 
 
