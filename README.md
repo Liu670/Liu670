@@ -86,7 +86,8 @@ _____________|','   ///_/-------------/   |
 ## [](#-bug智造小刘)🧸 希望不秃头—小刘
 
 热爱技术，不爱秃头。
-喜欢参与一些开源项目的讨论。
+喜欢参与一些开源项目的讨论和捣鼓一些有意思的开源项目。
+
 ### 文章推荐
 
 [【苹果】SpringBoot监听Iphone15邮件提醒，Selenium+Python自动化抢购脚本](https://mp.weixin.qq.com/s?__biz=MzI0MTk1OTE0OA==&mid=2247485024&idx=1&sn=0b1955d34f8a997047e87eb003dc9257&chksm=e902efe3de7566f57c509465855e6ceb85ab21070f55e2fb9c2475c4576f7c51b0f22accbf69#rd)
