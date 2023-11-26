@@ -92,8 +92,8 @@ _____________|','   ///_/-------------/   |
 
 | Liu670| 地地地地地址 |
 | :----:| :----: | 
-| CSDN | [](https://blog.csdn.net/weixin_45971950?spm=1000.2115.3001.5343) | 
-| gitee|[https://gitee.com/Liu670](https://gitee.com/lovexiaoliu)  | 
+| CSDN | [https://blog.csdn.net/xiaoliu](https://blog.csdn.net/weixin_45971950?spm=1000.2115.3001.5343) | 
+| gitee|[https://gitee.com/lovexiaoliu](https://gitee.com/lovexiaoliu)  | 
 | GitHub|[https://github.com/Liu670](https://github.com/Liu670)| 
 
 ### 文章推荐
