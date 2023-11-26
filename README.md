@@ -88,6 +88,14 @@ _____________|','   ///_/-------------/   |
 热爱技术，不爱秃头。<br>
 喜欢参与一些开源项目的讨论和捣鼓一些有意思的开源项目。
 
+### 博客简介
+
+| Liu670| 地地地地地址 |
+| :----:| :----: | 
+| CSDN | [](https://blog.csdn.net/weixin_45971950?spm=1000.2115.3001.5343) | 
+| gitee|[https://gitee.com/Liu670](https://gitee.com/lovexiaoliu)  | 
+| GitHub|[https://github.com/Liu670](https://github.com/Liu670)| 
+
 ### 文章推荐
 
 [【苹果】SpringBoot监听Iphone15邮件提醒，Selenium+Python自动化抢购脚本](https://mp.weixin.qq.com/s?__biz=MzI0MTk1OTE0OA==&mid=2247485024&idx=1&sn=0b1955d34f8a997047e87eb003dc9257&chksm=e902efe3de7566f57c509465855e6ceb85ab21070f55e2fb9c2475c4576f7c51b0f22accbf69#rd)
@@ -103,7 +111,6 @@ _____________|','   ///_/-------------/   |
 [【ChatGPT】手摸手，带你玩转ChatGPT](https://mp.weixin.qq.com/s/9wEelbTN6kaChkCQHmgJMQ)
 
 [【ChatGPT】SpringBoot+uniapp+uview2对接OpenAI，带你开发玩转ChatGPT](https://mp.weixin.qq.com/s/b19J36Eo3-ba7bHbWzoZYQ)
-
 
 <!--
 ### 博客简介
