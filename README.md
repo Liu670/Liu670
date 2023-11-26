@@ -92,6 +92,7 @@ _____________|','   ///_/-------------/   |
 
 | Liu670| 地地地地地址 |
 | :----:| :----: | 
+| 主页 | [https://liu.ihong.love/xiaoliu](http://liu.ihong.love:81) | 
 | CSDN | [https://blog.csdn.net/xiaoliu](https://blog.csdn.net/weixin_45971950?spm=1000.2115.3001.5343) | 
 | gitee|[https://gitee.com/lovexiaoliu](https://gitee.com/lovexiaoliu)  | 
 | GitHub|[https://github.com/Liu670](https://github.com/Liu670)| 
