@@ -82,6 +82,29 @@ _____________|','   ///_/-------------/   |
 </a>
 -->
 
+
+## [](#-bug智造小刘)🧸 希望不秃头—小刘
+
+热爱前端、热爱技术。
+喜欢参与一些开源项目的讨论。
+### 文章推荐
+
+[【苹果】SpringBoot监听Iphone15邮件提醒，Selenium+Python自动化抢购脚本](https://mp.weixin.qq.com/s?__biz=MzI0MTk1OTE0OA==&mid=2247485024&idx=1&sn=0b1955d34f8a997047e87eb003dc9257&chksm=e902efe3de7566f57c509465855e6ceb85ab21070f55e2fb9c2475c4576f7c51b0f22accbf69#rd)
+
+[【规范】SpringBoot接口返回结果及异常统一处理，这样封装才优雅](https://mp.weixin.qq.com/s?__biz=MzI0MTk1OTE0OA==&mid=2247484847&idx=1&sn=bfd60bed1aef8ddcf4c030f7882a9a6d&chksm=e902ec2cde75653a0ab9a89be0365ba8f5f86a1b4de21104ff2e67352fb311e52443cd9c4a9b#rd)
+
+[【项目实战】SpringBoot+uniapp+uview2打造H5+小程序+APP入门学习的聊天小项目](https://mp.weixin.qq.com/s/g7AZOWLgW5vcCahyJDEPKA)
+
+[【项目实战】SpringBoot+uniapp+uview2打造一个企业黑红名单吐槽小程序](https://mp.weixin.qq.com/s/t_qwF_HvkdW-6TI3sYUHrA)
+
+[【模块分层】还不会SpringBoot项目模块分层？来这手把手教你！](https://mp.weixin.qq.com/s/fpkiNR2tj832a6VxZozwDg)
+
+[【ChatGPT】手摸手，带你玩转ChatGPT](https://mp.weixin.qq.com/s/9wEelbTN6kaChkCQHmgJMQ)
+
+[【ChatGPT】SpringBoot+uniapp+uview2对接OpenAI，带你开发玩转ChatGPT](https://mp.weixin.qq.com/s/b19J36Eo3-ba7bHbWzoZYQ)
+
+[![动态介绍](https://camo.githubusercontent.com/d2510953574423e43897dbc5e248256ab26101d218d713ab5fd79c8bdc20d524/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f6c696e65733de5a4a7e5aeb6e5a5bdefbc8ce68891e698afe7bc96e7a88be7bb86e8839e3be6aca2e8bf8ee69da5e588b0e68891e79a84204769744875622126666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d333830266865696768743d3530266475726174696f6e3d343030302670617573653d31303030)](https://camo.githubusercontent.com/d2510953574423e43897dbc5e248256ab26101d218d713ab5fd79c8bdc20d524/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f6c696e65733de5a4a7e5aeb6e5a5bdefbc8ce68891e698afe7bc96e7a88be7bb86e8839e3be6aca2e8bf8ee69da5e588b0e68891e79a84204769744875622126666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d333830266865696768743d3530266475726174696f6e3d343030302670617573653d31303030)
+
 <!--
 ### 博客简介
 
@@ -119,7 +142,7 @@ _____________|','   ///_/-------------/   |
 
 [![](https://camo.githubusercontent.com/7ac55b81a4ed639e56af10b88bd662e98bf23ca0bb887d834aa72621d0bdd407/68747470733a2f2f6d6f652d636f756e7465722e676c697463682e6d652f6765742f403a7a68616e672d626378623f7468656d653d72756c653334)](https://camo.githubusercontent.com/7ac55b81a4ed639e56af10b88bd662e98bf23ca0bb887d834aa72621d0bdd407/68747470733a2f2f6d6f652d636f756e7465722e676c697463682e6d652f6765742f403a7a68616e672d626378623f7468656d653d72756c653334)
 
-## [](#-攻城狮小刘)🧸 希望不秃头—小刘
+## [](#-bug智造小刘)🧸 希望不秃头—小刘
 
 热爱前端、热爱技术。
 喜欢参与一些开源项目的讨论。
