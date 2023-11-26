@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:20210523123?theme=rule3">
+<img align="right" src="https://count.getloli.com/get/@:202105231231?theme=rule3">
 
 <!-- ![](https://raw.githubusercontent.com/Liu670/Liu670/main/assets/github-contribution-grid-snake.svg) 
 
@@ -16,7 +16,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 
 
-<h3>Welcome, You are my  <img src="https://profile-counter.glitch.me/Liu670/count.svg"> Visitor, Thank You!🎉🎉</h3>
+<h3>Welcome, You are my  <img src="https://profile-counter.glitch.me/202105231231/count.svg"> Visitor, Thank You!🎉🎉</h3>
 <div align="center">
   <a href="https://blog.sunguoqi.com/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=print('hello world');昨日之深渊,今日之浅谈;想的是你,放不下的还是你！&center=true&size=27" alt="Typing SVG" />
