@@ -28,7 +28,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 </div>
 
 
-![](https://github.com/Liu670/Liu670/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Liu670/Liu670/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### 个人简介
 - 🐕 姓名: 刘金林
